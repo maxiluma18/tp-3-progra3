@@ -15,7 +15,7 @@ Este proyecto es un laboratorio de algoritmos diseñado para resolver problemas 
 * **Análisis:** Comparación de tiempos de ejecución ($ms$) y cantidad de llamadas recursivas.
 
 ### 🧠 Conceptos Avanzados
-* [cite_start]**Backtracking:** Implementación de poda para evitar ramas innecesarias en el árbol de decisión, reduciendo drásticamente el tiempo de procesamiento. [cite: 38]
+* **Backtracking:** Implementación de poda para evitar ramas innecesarias en el árbol de decisión, reduciendo drásticamente el tiempo de procesamiento.
 * **Análisis de Complejidad:** El programa mide y muestra en tiempo real cuántas llamadas recursivas realiza cada algoritmo para llegar a la misma solución.
 * **Visualización de Datos:** Generación dinámica de gráficos de barras para comparar la eficiencia de los algoritmos según el tamaño del tablero.
 
